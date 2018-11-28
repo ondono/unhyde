@@ -1,6 +1,5 @@
-.social {
-  text-align: center; }
-  .social a {
-    padding: 0 4px;
-    border-style: none;
-    text-decoration: none; }
+.logo-center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}

@@ -1,4 +1,5 @@
 {{ define "main" -}}
+<span class="section__title">{{ .Title | default "List" }}</span>
 <ul class="posts">
 {{ range .Data.Pages -}}
   <li>
